@@ -4,9 +4,9 @@
   "summary": "A Behavior Driven Development library for iOS and OS X.",
   "homepage": "https://github.com/kiwi-bdd/Kiwi",
   "source": {
-		"http": "http://localhost:8081/artifactory/api/pods/RemoteIOSLibrary/pod/git/kiwi-bdd/Kiwi/2.3.1",
-		"type": "tgz"
-	},
+    "git": "https://github.com/kiwi-bdd/Kiwi.git",
+    "tag": "2.3.1"
+  },
   "license": {
     "type": "MIT",
     "file": "License.txt"

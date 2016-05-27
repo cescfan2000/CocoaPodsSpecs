@@ -12,9 +12,9 @@
     "file": "License.txt"
   },
   "source": {
-		"http": "http://localhost:8081/artifactory/api/pods/RemoteIOSLibrary/pod/git/allending/Kiwi/v1.0.0",
-		"type": "tgz"
-	},
+    "git": "https://github.com/allending/Kiwi.git",
+    "tag": "v1.0.0"
+  },
   "source_files": "Kiwi",
   "frameworks": "SenTestingKit",
   "xcconfig": {

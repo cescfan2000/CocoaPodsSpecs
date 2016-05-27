@@ -14,9 +14,9 @@
     "file": "License.txt"
   },
   "source": {
-		"http": "http://localhost:8081/artifactory/api/pods/RemoteIOSLibrary/pod/git/allending/Kiwi/2.2.3",
-		"type": "tgz"
-	},
+    "git": "https://github.com/allending/Kiwi.git",
+    "tag": "2.2.3"
+  },
   "ios": {
     "xcconfig": {
       "FRAMEWORK_SEARCH_PATHS": "$(inherited) \"$(SDKROOT)/Developer/Library/Frameworks\" \"$(DEVELOPER_LIBRARY_DIR)/Frameworks\""
